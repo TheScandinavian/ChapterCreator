@@ -1,0 +1,109 @@
+    Founding Reason
+Offense: Imperial authorities identified the need for a crusading Chapter, whether as part of an organised offensive or as a flexible strike force. This Chapter was created for that purpose, and is on its crusade to this very day. Even if the offensive that originally justified its creaton is no longer ongoing, the Chapter's identity might still be strongly influenced by it.
+
+    Founding Date
+19th Founding: this Chapter was created at some point between the mid 35th millennium and the late 35th millennium, during the 19th Founding. The 14th, 15th, 16th, 17th, 18th and 20th Foundings occurred during the same period of ~500 years.
+
+    Timeline Status
+Post-42nd Millennium
+
+    Primaris Reinforcements Status
+Received
+
+    Progenitor
+Dark Angels: this Chapter is of the Lion El'Jonson's proud lineage, whether from original Dark Angels stock or through a successor Chapter.
+
+    Gene-seed purity
+Matches progenitor: this Chapter's gene-seed is largely identical to its progenitor's. Consequently, it likely suffers similar flaws.
+
+    Mutations
+Lost zygote: Mucranoid
+
+    Gene-Seed Stability
+Stable: this Chapter's gene-seed is remarkably stable, significantly more so than what is average. New flaws, deficiencies and mutations are practically unheard of, even when used to found a new Chapter.
+
+    Chapter Demeanor
+Strategic: this Chapter regards the proverbial 'big picture' to be paramount. Accordingly, their focus in battle is largely on strategic movements, possibly at the risk of ignoring more minute elements.
+
+    Chapter Quirks
+Trophy Taking: this Chapter traditionally takes trophies from enemies. This may take a variety of forms, such as keeping eyes, preserving hearts, taking skulls, or something else entirely. There may also be various criteria, such as trophies only being taken from worthy foes, only from leaders, only at certain times, or something else entirely.
+
+    Legendary Figure
+Chaplain, or equivalent
+
+    Legendary Deeds
+This Astartes is remembered for his dedication to upholding the Chapter's honor.
+Among other heroic acts, he personally recovered a standard of the Chapter that had long been lost to the enemy.
+
+    Legendary Figure's Fate
+Dead: no man lives forever, even among the Adeptus Astartes. Whether by the hands of the Chapter's enemies, due to some catastrophe, or something else entirely, he no longer lives.
+
+    Chapter Homeworld
+Fleet-based: this Chapter, whether or not by choice, has no homeworld. Instead, they roam the stars aboard ~19 ships. In most fleet-based Chapters, a battle-barge typically fills the role of Fortress-Monastery.
+However, this Chapter makes use of a unique vessel instead of a 'standard' battle-barge.
+
+    Fleet-Based Recruitment
+Keeps: this Chapter maintains a number of keeps throughout the Imperium, from which are used to stage recruitment efforts.
+
+    Organisation
+This Chapter has somewhat diverged from its progenitor's organisation
+
+    Non-Progenitor Elements
+Forgiven: for one reason or another, this Chapter has lost much interest in hunting the Fallen Angels. They most likely haven't abandoned it entirely, but may be one of the very few who have.
+
+    Chapter Unity
+United: this Chapter is, regardless of more minute details of organisation, a single, cohesive group. There are no internal conflicts beyond what is the norm for the Adeptus Astartes.
+
+    Combat Doctrine
+All Or Nothing: this Chapter favors fighting as a single comprehensive force, deploying the entirety of its available Astartes when possible.
+Needless to say, this is not their sole means of fighting their enemies, merely the preferred manner in which they do so, and the means by which they excel.
+
+    Characteristic Chapter Training
+Personal Weapon Focus: this Chapter instills in its Astartes the vital importance of intimate familiarity with their weapons. They may do this in a variety of ways, for example by meditation, consecration, or frequent maintenance.
+
+    Aspirant Recruitment
+Test of Will: this Chapter recruits its Aspirants based on their resolve. This may be tested by engineering impossible tests and observing who still undertake them, offering temptations that must be rejected, or something else entirely.
+Following this, they are examined by the Chapter's apothecaries to determine whether they are suited for gene-seed implantation.
+
+    Recruitment Style
+Mix: this Chapter draws its Aspirants from both a pool of volunteers and non-voluntary youths.
+
+    Failed Aspirant Fate
+Replacement Parts: Aspirants whose bodies reject the gene-seed implants and survive are put in some form of suspended animation so they can be used to harvest replacement body parts.
+
+    Serf Treatment
+Indifferent: this Chapter treats its Serfs fairly, but largely disregard their presence when interaction is not necessary.
+
+    Chapter Beliefs
+Transhumanism: this Chapter views humanity as inferior to themselves, and Astartes as entirely separate. This may take on a patronising view, whereby humanity must be protected by their betters, or a dismissive view, whereby humanity is disregarded as unimportant to the Chapter.
+
+    Chapter Strength
+Over Strength: this Chapter numbers ~1349 Astartes. This may be due to a loophole they found in the Codex Astartes, simple disregard for the part of the Codex that mandates Chapter numbers, or something else entirely.
+The Codex Astartes prescribes a standing force of 1000 marines spread across 10 Companies of 100 marines.
+That number specifically refers to fighting men and does not include command or support staff.
+Mortal human serfs are also not included.
+
+    Vehicle Pool
+Significantly Under-strength: this Chapter's vehicle pool is so small that its worth as a force multiplier has been noticeably impacted. The Chapter is likely unable to field some of the rarer vehicles otherwise available to the Adeptus Astartes.
+Note that the Codex Astartes places no limitations on a Chapter's vehicle pool. Instead, there are practical limits to consider; mainly matters of logistics, attrition, production and crewing.
+
+    Terminator Armor Availability
+Above Average: this Chapter's supply of terminator armor is beyond what one might expect, representing a potent advantage. The Chapter likely also has greater access to rarer suits.
+Note that the Codex Astartes places no limitations on a Chapter's inventory of power armor, let alone terminator armor. However, these suits are prohibitably expensive and difficult to create and maintain.
+Some Chapters, however, are more likely to have a greater number of suits available than others. As an example, this is particularly true for Dark Angels successors who maintain the tradition of the Deathwing formation.
+
+    Armory Condition
+Average: this Chapter's armory is on par with expectations, and it can fully equip every Astartes with adequate gear. The Chapter likely has access to some rare equipment in addition to its standard inventory.
+Note that the Codex Astartes places no limitations on a Chapter's armory. Instead, there are practical limits to consider; mainly matters of logistics, attrition and production.
+Some Chapters, however, are more likely to have a greater amount of rare or superior equipment. As an example, this is particularly true for Salamanders successors who maintain their progenitor's strong emphasis on craftsmanship.
+
+    Psyker Prevalence
+Average: this Chapter has an average number of psykers in its ranks. Regardless of how these psykers employ their abilities, they represent a powerful asset.
+
+    Chapter Allies
+Adeptus Astra Telepathica: this Chapter has connections among the sanctioned psykers of the Imperium. This may, for example, allow them to enhance their astropath communicatons, or even perhaps recruit psykers from the League of Blackships.
+
+    Chapter Enemies
+Asuryani: this Chapter has become proficient fighting Craftworld Eldar. Thought by some to be the irrelevant remnants of a dying species, these Astartes know all too well the perfidy of these farsighted xenos.
+Naturally, this is unlikely to be their only opponent or the sole subject of their attention.
+Nor is it likely they're incapable of combating other threats. This should, more often than not, be considered a preferred enemy.

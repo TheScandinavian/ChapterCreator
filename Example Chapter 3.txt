@@ -1,0 +1,112 @@
+    Founding Reason
+Preparation: Imperial authorities identified the need for a Chapter to combat a specific threat. Even if that threat no longer exists today, its original presence lead to the founding of this Chapter.
+
+    Founding Date
+17th Founding: this Chapter was created at some point between the mid 35th millennium and the late 35th millennium, during the 17th Founding. The 14th, 15th, 16th, 18th, 19th and 20th Foundings occurred during the same period of ~500 years.
+
+    Timeline Status
+Post-42nd Millennium
+
+    Primaris Reinforcements Status
+Received
+
+    Progenitor
+White Scars: this Chapter is of Jaghatai Khan's fierce lineage, whether from original White Scars stock or through a successor Chapter.
+
+    Gene-seed purity
+Matches progenitor: this Chapter's gene-seed is largely identical to its progenitor's. Consequently, it likely suffers similar flaws.
+
+    Gene-Seed Stability
+Quite Unstable: this Chapter's gene-seed is significantly less stable than what is average. New flaws, deficiencies and mutations are common, particularly when used to found a new Chapter, and sufficiently frequent to be considered a considerable issue.
+
+    Chapter Demeanor
+Imperial: this Chapter, moreso than most of their peers, are dedicated to the expansion of the Imperium and the vision of the Emperor. This may come at the expense of other concerns, and some may question their interpretaton of the Emperor's vision.
+
+    Chapter Quirks
+Peculiar Cuisine: this Chapter has its own distinct food and drink, this being one of the few luxuries afforded to Astartes.
+Faceless: this Chapter's Astartes, for one reason or another, never show their faces, even when unarmored and when not deployed to a warzone, in which cases they use some other means of concealing their countenances from others. This may extend even to their own brothers.
+
+    Legendary Figure
+Force Commander, or equivalent
+
+    Legendary Deeds
+This Astartes is remembered for his dedication to battling the foul orks.
+Among other heroic acts, he single-handedly felled a Gargant. Apocryphal stories are told by allies about how a lone Astartes boarded the colossal machine and did not emerge until it was destroyed.
+
+    Legendary Figure's Fate
+Traitor: it happens on occasion that Astartes must either die, lest they live long enough to betray their brothers. Whether falling to Chaos or simply going rogue as a renegade Astartes, whatever the reason might have been, he turned his back on the Chapter, and may even have taken others with him.
+
+    Chapter Homeworld
+Arid Armory World: this Chapter's homeworld is home to a vast store of arms, armor and munitions, some of it new, some of it ancient. The world possesses a very dry climate, and may feature extensive deserts.
+
+    Rule of Homeworld
+Stewardship: this Chapter rules the world via a proxy in the form of a local human governor or equivalent.
+
+    Fortress-Monastery Type
+Mobile Sea Fortress: this Chapter's Fortress-Monastery is nautical and mobile, taking the form of a great machine capable of moving across the planet's seas. In rare cases, it may also be multiple such machines, though likely smaller in size. In even rarer cases, the machine, or machines, may be submersible.
+
+    Additional Recruiting Worlds
+This Chapter has one recruiting world in addition to its homeworld.
+
+    Organisation
+This Chapter adheres to the Codex Astartes
+
+    Codex Elements
+Narrow Interpretation: this Chapter has a very narrow perception of the Codex, more-so than originally intended when it was penned.
+
+    Chapter Unity
+United: this Chapter is, regardless of more minute details of organisation, a single, cohesive group. There are no internal conflicts beyond what is the norm for the Adeptus Astartes.
+
+    Combat Doctrine
+Task Force: this Chapter favors deploying the minimum practical number of Astartes, focusing instead on putting as many marines in as many right places at the right time as possible.
+Needless to say, this is not their sole means of fighting their enemies, merely the preferred manner in which they do so, and the means by which they excel.
+
+    Characteristic Chapter Training
+Brotherhood: this Chapter instills in its Astartes the paramount value of their bond with their brothers in arms. Consequently, their performance is noticeably higher when in the company of their brothers.
+
+    Aspirant Recruitment
+Exposure: this Chapter recruits its Aspirants based on their survival skills, or just sheer endurance. This may be tested by expecting potential Aspirants to travel through hazardous environments to a recruitment location of their own volition, finding outcasts that have survived despite the odds, or something else entirely.
+Following this, they are examined by the Chapter's apothecaries to determine whether they are suited for gene-seed implantation.
+
+    Recruitment Style
+Kidnapping: this Chapter only draws its Aspirants from non-voluntary youths.
+
+    Failed Aspirant Fate
+Servitor Conversion: Aspirants whose bodies reject the gene-seed implants and survive are turned into servitors.
+
+    Serf Treatment
+Slavery: this Chapter treats its Serfs like chattel, considering them to be inferior, worth only what labor they can perform.
+
+    Chapter Beliefs
+Matches Progenitor: this Chapter maintains beliefs and a culture closely related to the White Scars, even in the event that there has been a doctrinal or organisational divergence from their progenitor.
+
+    Chapter Strength
+Normal: this Chapter numbers ~1000 Astartes. This number is likely to occasionally fall, but their current numbers are largely stable.
+The Codex Astartes prescribes a standing force of 1000 marines spread across 10 Companies of 100 marines.
+That number specifically refers to fighting men and does not include command or support staff.
+Mortal human serfs are also not included.
+
+    Vehicle Pool
+Normal: this Chapter's vehicle pool is of average size and makeup, as one might expect from a baseline Chapter. It can most likely field a few rare vehicles as well.
+Note that the Codex Astartes places no limitations on a Chapter's vehicle pool. Instead, there are practical limits to consider; mainly matters of logistics, attrition, production and crewing.
+
+    Terminator Armor Availability
+Significantly Below Average: this Chapter's supply of terminator armor is much smaller than what one might expect. The Chapter is unlikely to have any access to rarer suits.
+Note that the Codex Astartes places no limitations on a Chapter's inventory of power armor, let alone terminator armor. However, these suits are prohibitably expensive and difficult to create and maintain.
+Some Chapters, however, are more likely to have a greater number of suits available than others. As an example, this is particularly true for Dark Angels successors who maintain the tradition of the Deathwing formation.
+
+    Armory Condition
+Poor: this Chapter's armory is on well below expectations, and it will need to equip many Astartes with inferior gear. The Chapter is unlikely to have much in the way of rare equipment.
+Note that the Codex Astartes places no limitations on a Chapter's armory. Instead, there are practical limits to consider; mainly matters of logistics, attrition and production.
+Some Chapters, however, are more likely to have a greater amount of rare or superior equipment. As an example, this is particularly true for Salamanders successors who maintain their progenitor's strong emphasis on craftsmanship.
+
+    Psyker Prevalence
+Average: this Chapter has an average number of psykers in its ranks. Regardless of how these psykers employ their abilities, they represent a powerful asset.
+
+    Chapter Allies
+Adeptus Arbites: this Chapter has made friends among the enforcers of Imperial law. This may, for example, allow them to expedite recruitment from criminal elements, or make them more capable of rooting out heretics and other undesirables.
+
+    Chapter Enemies
+Orks: this Chapter has become proficient fighting greenskins. Where some disregard them as disorganised rabble, these Astartes recognise them for the true threat they are.
+Naturally, this is unlikely to be their only opponent or the sole subject of their attention.
+Nor is it likely they're incapable of combating other threats. This should, more often than not, be considered a preferred enemy.
