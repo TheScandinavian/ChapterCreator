@@ -2435,7 +2435,7 @@ def ChapterCreationTable():
         if NumArmoryCondition <= 1:
             f.writelines("\nDreadful: this Chapter's armory is in a sorry state, and it will need to equip the majority of Astartes with inferior gear. If the Chapter has any rare equipment at all, it will probably be closely guarded and seldom issued.")
         elif NumArmoryCondition <= 2:
-            f.writelines("\nPoor: this Chapter's armory is on well below expectations, and it will need to equip many Astartes with inferior gear. The Chapter is unlikely to have much in the way of rare equipment.")
+            f.writelines("\nPoor: this Chapter's armory is well below expectations, and it will need to equip many Astartes with inferior gear. The Chapter is unlikely to have much in the way of rare equipment.")
         elif NumArmoryCondition <= 3:
             f.writelines("\nSubpar: this Chapter's armory is somewhat lower than ordinary expectations, and it may need to equip some Astartes with inferior gear. The Chapter likely has a shortage of rare equipment in particular.")
         elif NumArmoryCondition <= 10:
