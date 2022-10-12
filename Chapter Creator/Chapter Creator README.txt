@@ -15,7 +15,7 @@ STEP 5 - IF YOU WANT TO KEEP THE .TXT FILE, RENAME IT OR MOVE IT BEFORE EXECUTIN
 Hello,
 I am the Scandinavian, the creator of this script.
 Chances are you haven't heard of me until now.
-The script the work of an amateur with a slightly-more-than-passing interest in the Warhammer 40,000 setting.
+The script is the work of an amateur with a slightly-more-than-passing interest in the Warhammer 40,000 setting.
 
 The creation table I worked off of was originally made by the anons on 4chan's /tg/.
 If you're curious, it can be found on 1d4chan.org.
