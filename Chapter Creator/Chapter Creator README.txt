@@ -101,4 +101,5 @@ There are other distinctions between a script and an app, but further elaboratio
 This script, being a script and not an app, to the best of my knowledge, does not break the intellectual property guidelines as laid out by Games Workshop here: https://www.games-workshop.com/en-US/Intellectual-Property-Guidelines
 
 In closing, I have no idea how many people will ever use my script, let alone take the time to read all this.
-If you find this message, I appreciate you.                                                                  And, if you so desire, do share my script with your friends.       
+If you find this message, I appreciate you.
+And, if you so desire, do share my script with your friends.       
