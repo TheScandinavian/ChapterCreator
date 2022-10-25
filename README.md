@@ -5,9 +5,11 @@ STEP 2 - DOWNLOAD PYTHON
 
 STEP 3 - ENSURE SCRIPT IS IN NON-CLUTTERED FOLDER FOR SAKE OF CONVENIENCE
 
-STEP 4 - EXECUTE SCRIPT; IT WILL GENERATE A .TXT FILE NAMED "YOUR CHAPTER" IN THE SAME FOLDER
+STEP 4 - EXECUTE SCRIPT; IT WILL ASK YOU FOR A NAME
 
-STEP 5 - IF YOU WANT TO KEEP THE .TXT FILE, RENAME IT OR MOVE IT BEFORE EXECUTING THE SCRIPT AGAIN
+STEP 5 - TYPE NAME AND HIT ENTER
+
+STEP 6 - A .TXT FILE SHARING THE NAME FROM STEP 4 IS GENERATED AND SAVED IN THE SAME FOLDER AS THE SCRIPT
 
 
 
@@ -40,8 +42,7 @@ It will be called "Your Chapter.txt" - I recommend that you store the script in 
 
 VERY IMPORTANT:
 
-BE AWARE THAT RUNNING THE SCRIPT TWICE DOES NOT CREATE 2 TEXT FILES.
-THE 2ND TEXT FILE WILL OVERRIDE THE 1ST.
+BE AWARE THAT GENERATING 2 CHAPTERS WITH THE SAME NAME WILL RESULT IN THE 2ND CHAPTER OVERWRITING THE 1ST.
 IF YOU WANT TO KEEP THE TEXT FILE, YOU SHOULD RENAME IT OR MOVE IT.
 
 The script is easily modifiable.
@@ -101,4 +102,5 @@ There are other distinctions between a script and an app, but further elaboratio
 This script, being a script and not an app, to the best of my knowledge, does not break the intellectual property guidelines as laid out by Games Workshop here: https://www.games-workshop.com/en-US/Intellectual-Property-Guidelines
 
 In closing, I have no idea how many people will ever use my script, let alone take the time to read all this.
-If you find this message, I appreciate you.                                                                  And, if you so desire, do share my script with your friends.       
+If you find this message, I appreciate you.
+And, if you so desire, do share my script with your friends.       
